@@ -1,1 +1,1 @@
-# Prueba-T-cnica-programador-PHP
+# Prueba-Tecnica-programador-PHP
